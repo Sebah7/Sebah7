@@ -12,7 +12,7 @@
 <img align="left" src="https://github.com/Sebah7/Sebah7/assets/125797927/5cfafb51-51ff-4f4c-9e21-3b0e4b7298b1" alt="Sebah Linkedin" height="50" width="50" /></a>
 <a href="mailto:sebahisamil21@gmail.com" target="blank">
 <img align="left" src="https://github.com/Sebah7/Sebah7/assets/125797927/8ad5a87c-6f64-4875-875f-53f919a05b41" alt="Sebah Gmail" height="60" width="60"/></a>
-<a href="https://discord.gg/straw_hat_seb" target="blank">
+<a href="https://discord.com/users/510716650082009088" target="blank">
 <img align="left" src="https://github.com/Sebah7/Sebah7/assets/125797927/db5da890-f8ee-49ca-9ca0-2ab6363ab34f" alt="Sebah Discord" height="60" width="50"/></a>
 </p>
 </div>
