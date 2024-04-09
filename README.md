@@ -25,11 +25,11 @@
 <br><br>
   <h2 align="center"> Lil Pointers and Facts ✅! </h2>
 
-- 🌱 I’m currently learning **Angular, Advanced JS, jQuery, TypeScript.**
+- 🌱 I’m currently learning **React JS**
 
-- 🔭 I’m currently working on [A Recepie App](Coming soon!)
+- 🔭 I’m currently working on [A Weather App](Coming soon!)
 
-- 💬 Ask me about **Laravel, PHP, HTML, CSS, Sass, CRUD, Git and Github!**
+- 💬 Ask me about **Laravel, PHP, HTML, CSS, Sass, CRUD, Angular, Advanced JS, jQuery, TypeScript,Git and Github!**
 
 <br><br>
 
