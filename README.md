@@ -12,6 +12,8 @@
 <img align="left" src="https://github.com/Sebah7/Sebah7/assets/125797927/5cfafb51-51ff-4f4c-9e21-3b0e4b7298b1" alt="Sebah Linkedin" height="50" width="50" /></a>
 <a href="mailto:sebahisamil21@gmail.com" target="blank">
 <img align="left" src="https://github.com/Sebah7/Sebah7/assets/125797927/8ad5a87c-6f64-4875-875f-53f919a05b41" alt="Sebah Gmail" height="60" width="60"/></a>
+<a href="./eng-resume.md">
+<img align="left" width="60" height="60" src="https://img.icons8.com/fluency/48/resume.png" alt="Sebah's CV"/></a>
 </p>
 </div>
 
