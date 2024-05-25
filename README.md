@@ -19,11 +19,11 @@
 
 <br><br><br>
 
-  <h2 align="center"> My projects 🔗! </h2>
+  <h2 align="center"> School projects 🔗! </h2>
  - <a align="left" href="https://github.com/stars/Sebah7/lists/school-assignments">🎒 Chas Acadmey's Assignments</a>
    <br>
-- <a align="left" href="https://github.com/stars/Sebah7/lists/code-alongs-mini-projects">💻 Code Alongs - Mini Projects</a>
-
+<!-- - <a align="left" href="https://github.com/stars/Sebah7/lists/code-alongs-mini-projects">💻 Code Alongs - Mini Projects</a>
+ -->
 <br><br>
   <h2 align="center"> Lil Pointers and Facts ✅! </h2>
 
