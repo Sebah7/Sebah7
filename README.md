@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on [A Wonderful idea](Coming soon!)
 
-- ☔ Latest Project: [Weather App](https://papaya-llama-1b694e.netlify.app/)
+- ☔ Latest Project: [Adventure Buddies](https://adventurebuddies.netlify.app/) | [Weather App](https://papaya-llama-1b694e.netlify.app/)
 
 - 💬 Ask me about **Laravel, PHP, HTML, CSS, Sass, CRUD, Angular, Advanced JS, jQuery, TypeScript,Git and Github!**
 
