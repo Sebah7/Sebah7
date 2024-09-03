@@ -27,13 +27,13 @@
 <br><br>
   <h2 align="center"> Lil Pointers and Facts ✅! </h2>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Advanced JS**
 
 - 🔭 I’m currently working on [A Wonderful idea](Coming soon!)
 
 - ☔ Latest Project: [Adventure Buddies](https://adventurebuddies.netlify.app/) | [Weather App](https://papaya-llama-1b694e.netlify.app/)
 
-- 💬 Ask me about **Laravel, PHP, HTML, CSS, Sass, CRUD, Angular, Advanced JS, jQuery, TypeScript,Git and Github!**
+- 💬 Ask me about **Laravel, PHP, HTML, CSS, Sass, CRUD, Angular, React JS, Advanced JS, jQuery, TypeScript,Git and Github!**
 
 <br><br>
 
