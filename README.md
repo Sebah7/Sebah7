@@ -2,7 +2,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeno0bm16Z3Uyb2VvNDF2NXFkcXJsMjg2a3Vsb3Rta2huaHZ6cmduZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200"/>
 
 <h1 align="center">Hi 👋, I'm Sebah!</h1>
-<h2 align="left">A passionate Fullstack Opensource | Webdeveloper (Student) living in Sweden!</h2>
+<h2 align="left">A passionate Fullstack Opensource | Webdeveloper living in Sweden!</h2>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebah7&theme=onedark" alt="sebah7"/></a></p>
 
@@ -14,6 +14,8 @@
 <img align="left" src="https://github.com/Sebah7/Sebah7/assets/125797927/8ad5a87c-6f64-4875-875f-53f919a05b41" alt="Sebah Gmail" height="60" width="60"/></a>
 <a href="./eng-resume.md">
 <img align="left" width="60" height="60" src="https://img.icons8.com/fluency/48/resume.png" alt="Sebah's CV"/></a>
+<a href="https://sebah7.github.io/">
+  <img align="left" width="60" height="60" src="https://img.icons8.com/?size=100&id=RMOSvUQ2lycM&format=png&color=000000" /></a>
 </p>
 </div>
 
@@ -27,11 +29,11 @@
 <br><br>
   <h2 align="center"> Lil Pointers and Facts ✅! </h2>
 
-- 🌱 I’m currently learning **Advanced JS**
+- 🌱 I’m currently finishing-up my Internship at [ULO](https://www.ulo.nu/) 
 
-- 🔭 I’m currently working on [A Wonderful idea](Coming soon!)
+- 🔭 I'm learnign how to create **Shopify Apps**
 
-- ☔ Latest Project: [Adventure Buddies](https://adventurebuddies.netlify.app/) | [Weather App](https://papaya-llama-1b694e.netlify.app/)
+- ☔ Latest School Projects: [Adventure Buddies](https://adventurebuddies.netlify.app/) | [Weather App](https://papaya-llama-1b694e.netlify.app/)
 
 - 💬 Ask me about **Laravel, PHP, HTML, CSS, Sass, CRUD, Angular, React JS, Advanced JS, jQuery, TypeScript,Git and Github!**
 
