@@ -8,14 +8,14 @@
 
 <h2 align="center">Lets Connect 🤝:</h2>
 <p align="left">
+<a href="https://sebah7.github.io/">
+<img align="left" width="60" height="60" src="https://img.icons8.com/?size=100&id=RMOSvUQ2lycM&format=png&color=000000" /></a>
 <a href="https://linkedin.com/in/sebah-ismail-abubeker-361633bb/" target="blank">
 <img align="left" src="https://github.com/Sebah7/Sebah7/assets/125797927/5cfafb51-51ff-4f4c-9e21-3b0e4b7298b1" alt="Sebah Linkedin" height="50" width="50" /></a>
 <a href="mailto:sebahisamil21@gmail.com" target="blank">
 <img align="left" src="https://github.com/Sebah7/Sebah7/assets/125797927/8ad5a87c-6f64-4875-875f-53f919a05b41" alt="Sebah Gmail" height="60" width="60"/></a>
 <a href="./eng-resume.md">
 <img align="left" width="60" height="60" src="https://img.icons8.com/fluency/48/resume.png" alt="Sebah's CV"/></a>
-<a href="https://sebah7.github.io/">
-  <img align="left" width="60" height="60" src="https://img.icons8.com/?size=100&id=RMOSvUQ2lycM&format=png&color=000000" /></a>
 </p>
 </div>
 
@@ -29,13 +29,13 @@
 <br><br>
   <h2 align="center"> Lil Pointers and Facts ✅! </h2>
 
-- 🌱 I’m currently finishing-up my Internship at [ULO](https://www.ulo.nu/) 
+- 🔭 I’m currently exploring **Cloud development**
 
-- 🔭 I'm learnign how to create **Shopify Apps**
+- 🌱 Had a great intern period in [ULO](https://www.ulo.nu/) and learned about **Shopify Apps**
 
 - ☔ Latest School Projects: [Adventure Buddies](https://adventurebuddies.netlify.app/) | [Weather App](https://papaya-llama-1b694e.netlify.app/)
 
-- 💬 Ask me about **Laravel, PHP, HTML, CSS, Sass, CRUD, Angular, React JS, Advanced JS, jQuery, TypeScript,Git and Github!**
+- 💬 Ask me about **Docker, Laravel, PHP, HTML, CSS, Sass, CRUD, Angular, React JS, Advanced JS, jQuery, TypeScript, Git and Github!**
 
 <br><br>
 
